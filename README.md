@@ -11,8 +11,8 @@ A Streamlit app for computing reduced level(RL) using height of instrument metho
 
 ## Quick Start
 1. Install dependencies:
-2.  Run the app:
-3.  3. Upload your CSV and follow the on-screen instructions.
+2. Run the app:
+3. Upload your CSV and follow the on-screen instructions.
 
 ---
 
