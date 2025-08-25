@@ -1,6 +1,6 @@
 # Levelling Computation App
 
-A Streamlit app for levelling survey data analysis and visualization.
+A Streamlit app for computing reduced level(RL) using height of instrument method with data visualization.
 
 ## Features
 - Upload levelling data (CSV)
